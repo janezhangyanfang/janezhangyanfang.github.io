@@ -31,14 +31,14 @@ body{
 .main{
 	margin:7em auto 0;
 	width:80%;
-	background: #fff;
+	background: #666;
 }
 .header {
 	text-align:center;
 	padding:1.3em;
 }
 .header h1 {
-	color:#272727;
+	color:#fff;
 	font-weight:700;
 	font-size:22px;
 }
