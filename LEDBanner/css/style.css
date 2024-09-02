@@ -25,7 +25,7 @@ img{max-width:100%;}
 
 /****-----start-body----****/
 body{
-	background:#eee;
+	background:#222;
 	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .main{
@@ -248,7 +248,7 @@ input[type=checkbox].css-checkbox10:checked + label i.css-label10 {
 	text-align: center;
 }
 .copy-right p {
-	color:#000;
+	color:#fff;
 	font-size:1em;
 	margin-top:5em;
 	font-weight:600;
