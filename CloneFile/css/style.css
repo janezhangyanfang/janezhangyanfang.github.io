@@ -244,7 +244,6 @@ input[type=checkbox].css-checkbox10:checked + label i.css-label10 {
 }
 /*----*/
 /**start-copy-right**/
-.copy-right {
 	text-align: center;
 }
 .copy-right p {
@@ -259,7 +258,8 @@ input[type=checkbox].css-checkbox10:checked + label i.css-label10 {
 	color:#669A16;
 	-webkit-transition: all 0.3s ease-out;
 	-moz-transition: all 0.3s ease-out;
-	-ms-transition: all 0.3s ease-out;
+	-ms-trans.copy-right {
+ition: all 0.3s ease-out;
 	-o-transition: all 0.3s ease-out;
 	transition: all 0.3s ease-out;
 }
